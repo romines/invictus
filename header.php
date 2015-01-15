@@ -44,7 +44,7 @@
             <span class="icon-bar"></span>
           </button>
           
-		  <a href="index.php" id="brandLogo" class="navbar-brand"><img alt="Invictus Woods Logo" id="brandImg" src="images/invictus_woods_logo.svg" onerror="this.onerror=null; this.src='images/invictus_woods_logo.png'"></a>
+		  <a href="/" id="brandLogo" class="navbar-brand"><img alt="Invictus Woods Logo" id="brandImg" src="images/invictus_woods_logo.svg" onerror="this.onerror=null; this.src='images/invictus_woods_logo.png'"></a>
 
         </div>
 		<div id="navbar" class="collapse navbar-collapse">

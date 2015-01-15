@@ -17,7 +17,7 @@ include 'header.php'; ?>
       <div class="row">
         <div class="col-md-6">
           <h2>Purpose</h2>
-          <p>Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant.At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
+          <p>Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
           <p><a class="btn btn-default" href="philosophy.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
