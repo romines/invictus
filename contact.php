@@ -18,7 +18,7 @@ $description = "Get in touch with Invictus Woods to find out more about Central 
     	<div class="row">
         	<div class="col-md-11 col-centered">
 				<h1><?php echo $title; ?></h1>
-				<p>To find out more about Invictus Woods extended care, please email <a href="mailto:crabjohns@gmail.com">Camilla Rabjohns</a> or call 309-696-3333.</p>
+				<p>To find out more about Invictus Woods extended care, please email <a href="mailto:crabjohns.invictuswoods@gmail.com">Camilla Rabjohns</a> or call 309-696-3333.</p>
 				
 
       	</div>
