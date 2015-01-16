@@ -5,11 +5,6 @@ include 'header.php'; ?>
 <script>var makeActive = 'nope';</script>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
-      <!-- <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
-      </div> -->
     </div>
 
     <div class="container">
@@ -17,7 +12,7 @@ include 'header.php'; ?>
       <div class="row">
         <div class="col-md-6">
           <h2>Purpose</h2>
-          <p>Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
+          <p>Invictus Woods is the premier sober live facility in the Midwest. Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
           <p><a class="btn btn-default" href="philosophy.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
@@ -31,13 +26,13 @@ include 'header.php'; ?>
       <div class="row">
         <div class="col-md-6">
           <h2>Why Invictus Woods</h2>
-          <p>What sets our program apart from other extended care programs is the individual attention and personal care given to each resident. Through education, group sessions, wilderness expeditions and 12-step meetings, our participants engage in a mental, physical, and spiritual experience which is essential to long-term recovery. We believe a sober lifestyle takes hard work, but can also be fun and meaningful.</p>
+          <p>What sets our program apart from other extended care and sober living programs is the individual attention and personal care given to each resident. Through education, group sessions, wilderness expeditions and 12-step meetings, our participants engage in a mental, physical, and spiritual experience which is essential to long-term recovery. We believe a sober lifestyle takes hard work, but can also be fun and meaningful.</p>
 		  <p>We truly concentrate on the needs and concerns of each person in our program. We are dedicated to bringing out the best in each participant and creating new behaviors that promote lasting change. We believe in engaging the mind, body and spirit in a comprehensive manner for balanced living in the real world. Building a new life takes a firm commitment, and we will guide our participants in that process.</p>
           <p><a class="btn btn-default" href="services.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
           <h2>Partners</h2>
-          <p>At Invictus Woods, we are committed to doing whatever is necessary to maintain recovery, and we work closely with the following local and national treatment providers</p>
+          <p>At Invictus Woods, we are committed to doing whatever is necessary to maintain recovery, and we work closely with a network of Central Illinois, Midwest and national treatment providers</p>
 		  <ul>
 		  	<li>Primary Treatment Centers</li>
 			<li>Detoxification Centers</li>

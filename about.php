@@ -27,8 +27,8 @@ $description = "Dr. Ron and Camilla Rabjohns started Invictus Woods in 2011 to p
 	  		  </p>
 	  		  <br>
 				
-				<p>Invictus Woods is an extended care facility for young adult males ages 18 and older seeking an ongoing recovery program from chemical addiction. We require the successful completion of at least 28 days in a primary care substance abuse treatment center prior to admission.</p>
-				<p>Invictus Woods is located in the heart of Illinois, 20 miles southwest of Peoria. The property sits on 35 acres of serene wilderness. Our rustic housing and rural environment embraces the natural beauty that surrounds us, and we enjoy the splendor of each of the four seasons. Intake and Administration are located on campus.</p>
+				<p>Invictus Woods is a sober living extended care facility for young adult males ages 18 and older seeking an ongoing recovery program from chemical addiction. We require the successful completion of at least 28 days in a primary care substance abuse treatment center prior to admission.</p>
+				<p>Invictus Woods is located in the heart of the Midwest, 20 miles southwest of Peoria, Illinois. The property sits on 35 acres of serene wilderness. Our rustic housing and rural environment embraces the natural beauty that surrounds us, and we enjoy the splendor of each of the four seasons. Intake and Administration are located on campus.</p>
 				<p>Invictus Woods is strategically located 13 miles from the Peoria Regional Airport (PIA). Airlines that fly to this location include American Airlines, Delta Airlines, United Airlines and Allegiant Airlines.  PIA also allows for the use of private aircraft. Invictus Woods provides transportation to and from the property for participants and visiting family members. Car rental is available at airport during normal business hours.</p>
 				
        		</div>

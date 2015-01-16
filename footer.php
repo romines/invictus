@@ -1,7 +1,7 @@
       <hr>
 
       <footer>
-        <p id="copyright">&copy; Invictus Woods <?php echo date("Y"); ?></p>
+        <p id="copyright">Invictus Woods Extended Care | 29240 N Co Hwy 28, Glasford, IL. 61533 | Phone 309-696-3333</p>
       </footer>
     </div> <!-- /container -->
 

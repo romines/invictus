@@ -18,7 +18,7 @@ $description = "Central Illinois sober living house in a serene natural environm
     	<div class="row">
         	<div class="col-md-8">
 				<h1><?php echo $title; ?></h1>
-				<p>Invictus Woods is nestled on 35 acres of serenely wooded property 20 miles away from Peoria, which has malls, restaurants, support and recovery groups. Invictus Woods has 5 bedrooms and 4 bathrooms, hardwood oak flooring in the dining room, kitchen and living room. The upstairs living room has a large TV, a telescope, and internet. The kitchen has a gas stove, commercial refrigerator, oven and microwave.</p>
+				<p>Invictus Woods is nestled on 35 acres of serenely wooded property 20 miles away from Peoria, Illinois, which has extensive retail, restaurants, support and recovery groups. Invictus Woods has 5 bedrooms and 4 bathrooms, hardwood oak flooring in the dining room, kitchen and living room. The upstairs living room has a large TV, a telescope, and internet. The kitchen has a gas stove, commercial refrigerator, oven and microwave.</p>
 				<p>There are decks in the front and back of the home for relaxation and reflection, as well as central air conditioning throughout the house. On the lower level there is large group meeting room, two bedrooms, a bathroom, and a kitchen. The lower level walks out to a patio with a grill and scenic views of the woods. The local wildlife consists of birds, deer, fox, and turkey.</p>
        		</div>
 			<div class="thumbs col-md-4">

@@ -18,6 +18,7 @@ $description = "Illinois' first supported sober living house, facilitating 12-St
       <div class="row">
         <div class="col-md-8">
 			<h1><?php echo $title; ?></h1>
+			<p>We are proud to call the Midwest home, and support participants as they take advantage of all that it has to offer in terms of education, recreation and cultural opportunities. We take overall health very seriously, and strive to make a healthy and active lifestyle a part of sober living for all participants. We offer as part of residence:</p>
 			<ul>
 			  <li>Fitness Center Membership</li>
 			  <li>Spiritual Bonfires and BBQ nights</li>
