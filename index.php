@@ -12,7 +12,7 @@ include 'header.php'; ?>
       <div class="row">
         <div class="col-md-6">
           <h2>Purpose</h2>
-          <p>Invictus Woods is the premier sober live facility in the Midwest. Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
+          <p>Invictus Woods is the premier sober living facility in the Midwest. Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
           <p><a class="btn btn-default" href="philosophy.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
@@ -56,7 +56,7 @@ include 'header.php'; ?>
         </div>
         <div class="col-md-6">
           <h2>Costs</h2>
-          <p>Please <a href="contact.php">contact us</a> to discuss the cost of residency at Invictus Woods. We are private pay and do not work with health insurance benefits of any nature.</p>
+          <p>Please <a href="contact.php">contact us</a> to discuss the cost of residency at Invictus Woods. We are private pay and unable to accept insurance at this time.</p>
 		  <p>Invictus Woods offers safe, supportive and sober housing if a resident would like to continue their education at a nearby facility, such as Bradley University, Western Illinois University, Illinois State University, or Illinois Central College.
 
 		  </p>

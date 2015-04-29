@@ -39,7 +39,7 @@ $description = "Invictus Woods is proud to be a part of the sober living and rec
 		
 	 	<div class="row">
 			<h2>Hotels Near Invictus Woods</h2>
-			<div class='embed-container'><iframe width='425' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=hotels+near+Canton,+IL&aq=0&oq=canton+hotels&sll=40.679597,-89.57016&sspn=0.328059,0.305901&ie=UTF8&hq=hotels&hnear=Canton,+Fulton+County,+Illinois&t=m&fll=40.569632,-90.034332&fspn=0.657199,0.611801&st=115968771510351694523&rq=1&ev=zo&split=1&ll=40.569824,-90.034372&spn=0.657199,0.611801&output=embed'></iframe>
+			<div class='embed-container'><iframe width='425' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=hotels+near+Canton,+IL&aq=0&oq=canton+hotels&sll=40.679597,-89.57016&sspn=0.328059,0.305901&ie=UTF8&hq=hotels&hnear=Canton,+Fulton+County,+Illinois&t=m&fll=40.569632,-90.034332&fspn=0.657199,0.611801&st=115968771510351694523&rq=1&ev=zo&split=1&ll=40.569824,-90.034372&spn=0.657199,0.611801&output=embed'></iframe><br /><small><a href='https://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=hotels+near+Canton,+IL&aq=0&oq=canton+hotels&sll=40.679597,-89.57016&sspn=0.328059,0.305901&ie=UTF8&hq=hotels&hnear=Canton,+Fulton+County,+Illinois&t=m&fll=40.569632,-90.034332&fspn=0.657199,0.611801&st=115968771510351694523&rq=1&ev=zo&split=1&ll=40.569824,-90.034372&spn=0.657199,0.611801' style='color:#0000FF;text-align:left'>View Larger Map</a></small>
 			</div>
 		</div>
 	 </div>

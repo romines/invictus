@@ -17,17 +17,16 @@ $title = "Donate to Invictus Woods";
     	<div class="row">
         	<div class="col-md-11 col-centered">
 				<h1><?php echo $title; ?></h1>
-				<p>Invictus Woods Extended Care is a non-profit organization. Honor a loved one and help support sober living in the Midwest. Contributions can be directed to one of the following:</p>
+				<p>I.W.E.C. Inc. (Invictus Woods Endowment Corporation) is a non-profit, 501C3 organization. I.W.E.C. Inc.'s mission is to provide resources to help men further their recovery from chemical dependency in a safe, secure, sober environment. Honor a loved one and help support sober living in the Midwest by making a contribution that can be directed to one of the following:</p>
 				<ul>
 				  <li>Invictus Scholarships</li>
 				  <li>Staff Development</li>
 				  <li>Invictus Recreational Fund</li>
 				  <li>Named Scholarship Funds</li>
-				  <li>Invictus Friends and Family Endowment</li>
 				  <li>In memory of loved ones lost to addiction</li>
 				</ul>
 				
-				<p>All contributions are recognized with a donor’s name (or organization) etched on slate rock by intake building or on the brick walkway. Additionally, donors who contribute $250.00 or more will receive letter of acknowledgement.</p>
+				<p>All contributions are tax deductible and will receive letter of acknowledgement.</p>
        		</div>
 
       	</div>
