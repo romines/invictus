@@ -67,6 +67,10 @@
 	}
 }
 
+.clear {
+	clear: both;
+}
+
 /* Jumbotron backgrounds: unique banner image for each page. */
 
 .jumbotron {
@@ -140,6 +144,48 @@
 .col-centered {
 	float: none;
 	margin: 0 auto;
+}
+
+#homeGolf {
+
+	text-align: center;
+	margin-top: -30px;
+	background-color: #55C3DC;
+}
+#homeGolf a {
+	color: #063F6F;
+	text-decoration: underline;
+}
+
+#homeGolf img {
+	float: left;
+	margin-top: 1.23%;
+}
+
+@media only screen and (max-width : 564px) {
+	#homeGolf img {
+		max-height: 40px;
+	}
+}
+
+#homeGolf img.left {
+	margin-left: 12%;
+}
+
+#insideGolf {
+	display: inline-block;
+	float: left;
+	margin-left: 10%;
+	max-width: 45%;
+}
+
+#homeGolf img.right {
+	margin-left: 10%;
+}
+
+#homeGolf h3 {
+	padding-top: 13px;
+	color: #255706;
 }
 
 #aboutBrochure {

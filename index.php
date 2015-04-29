@@ -6,7 +6,16 @@ include 'header.php'; ?>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
     </div>
-
+		<div id="homeGolf">
+			<img src='images/ball_tee.png' class="left">
+			<div id="insideGolf">
+				
+				<h3>Don't miss <a href="images/IWEC-Golf_for_Recovery.pdf" target="_blank">I.W.E.C Golf for Recovery</a>, Saturday June 6th - Country Club of Peoria</h3>
+				
+			</div>
+			<img src='images/golfcart.png' class="right">
+			<div class="clear"></div>
+		</div>
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
@@ -66,5 +75,6 @@ include 'header.php'; ?>
 	  
 
 <?php include 'footer.php'; ?>
+<div style="margin-left: 6%">Golf images above <a href="http://www.freepik.com/free-vector/hand-drawn-golf-vectors_735559.htm">Designed by Freepik</a></div>
 
 <script>$('body').addClass('home');</script>
