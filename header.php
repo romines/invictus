@@ -11,19 +11,19 @@
     <title>Invictus Woods | <?php if ( $title == 'Home') {
 			echo "Central Illinois Sober Living/Extended Care";
 		} else echo $title; ?></title>
-		
-		
+
+
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css">
 
     <!-- Custom styles for this template -->
-    <link href="style.css" rel="stylesheet">
-	
-	<link href="jquery.fancybox.css" rel="stylesheet">
-	
+    <link href="style/style.css" rel="stylesheet">
+
+	<link href="style/jquery.fancybox.css" rel="stylesheet">
+
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	
+
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -34,7 +34,7 @@
 	  ga('send', 'pageview');
 
 	</script>
-		
+
   </head>
 
   <body>
@@ -48,7 +48,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          
+
 		  <a href="/" id="brandLogo" class="navbar-brand"><img alt="Invictus Woods Logo" id="brandImg" src="images/invictus_woods_logo.svg" onerror="this.onerror=null; this.src='images/invictus_woods_logo.png'"></a>
 
         </div>
