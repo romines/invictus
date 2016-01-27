@@ -42,7 +42,7 @@ $description = "Dr. Ron and Camilla Rabjohns started Invictus Woods in 2011 to p
 			<div class="col-md-11">
 				<h2>Staff</h2>
 				<h3>Dr. Ronald Rabjohns and Camilla Rabjohns</h3>
-				<p>Dr. Ron Rabjohns is a cardiologist and Camilla Rabjohns is a registered nurse.  Ron and Camilla know how important an extended care program is in developing maturity and stability after the initial recovery from addiction.  Supporting Invictus Woods is their way of giving back. Ron and Camilla are both active in the local Al-Anon community and frequently lead meetings. Camilla also travels to treatment centers and attends major conferences to continue learning.</p>
+				<p>Dr. Ron Rabjohns is a cardiologist and Camilla Rabjohns is a registered nurse. Camilla is a National Certified Recovery Specialist (NCRS), and received the 2015 Humanitarian Award from the Illinois State Medical Society Alliance. Ron and Camilla know how important an extended care program is in developing maturity and stability after the initial recovery from addiction.  Supporting Invictus Woods is their way of giving back. Ron and Camilla are both active in the local Al-Anon community and frequently lead meetings. Camilla also travels to treatment centers and attends major conferences to continue learning.</p>
 				
 			</div>
 		</div>
