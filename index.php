@@ -1,5 +1,5 @@
 
-<?php 
+<?php
 $title = "Home";
 include 'header.php'; ?>
 <script>var makeActive = 'nope';</script>
@@ -12,15 +12,15 @@ include 'header.php'; ?>
       <div class="row">
         <div class="col-md-6">
           <h2>Purpose</h2>
-          <p>Invictus Woods is the premier sober living facility in the Midwest. Our purpose is to build a strong foundation for young adult men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
+          <p>Invictus Woods is the premier sober living facility in the Midwest. Our purpose is to build a strong foundation for men who are in the early stages of the recovery process. Our focus is on structure and individual goals for each participant. At Invictus Woods we view the disease in a realistic way. We know that recovery is not about being powerless. It is about empowerment. Our goal is to locate what motivates a man and integrate it into his consciousness so he can rebuild his life, move forward and become a productive member of society.</p>
           <p><a class="btn btn-default" href="philosophy.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-6">
           <h2>Mission</h2>
-          <p>Invictus Woods Extended Care is committed to providing a safe and caring sober living environment for young adult males (18 and older) recovering from the effects of chemical dependency and other associated behaviors caused by drug and alcohol addiction. Our program builds on the initial therapeutic 12-step process to create a stronger foundation of recovery. We believe recovery does not have to be seen as punishment, and our primary focus is to teach our clients how to stay sober and enjoy the healing process. Set on 35 acres of wooded wilderness outside of Peoria, Illinois, Invictus Woods offers a clean, enjoyable and private sober living community to address the needs of each person. Our program is led by compassionate staff members who recognize there is a kind and loving person inside each one of us.</p>
+          <p>Invictus Woods Extended Care is committed to providing a safe and caring sober living environment for men (18 and older) recovering from the effects of chemical dependency and other associated behaviors caused by drug and alcohol addiction. Our program builds on the initial therapeutic 12-step process to create a stronger foundation of recovery. We believe recovery does not have to be seen as punishment, and our primary focus is to teach our clients how to stay sober and enjoy the healing process. Set on 35 acres of wooded wilderness outside of Peoria, Illinois, Invictus Woods offers a clean, enjoyable and private sober living community to address the needs of each person. Our program is led by compassionate staff members who recognize there is a kind and loving person inside each one of us.</p>
           <p><a class="btn btn-default" href="philosophy.php" role="button">View details &raquo;</a></p>
        </div>
-        
+
       </div>
       <!-- Example row of columns -->
       <div class="row">
@@ -51,7 +51,7 @@ include 'header.php'; ?>
 		  <a href="images/InvictusWoods_Brochure_2014.pdf">
 			  <img src="images/pdf_brochure.png">
 		  </a><br><br>
-		  
+
           <p><a class="btn btn-default" href="images/InvictusWoods_Brochure_2014.pdf" role="button">View brochure &raquo;</a></p>
         </div>
         <div class="col-md-6">
@@ -63,7 +63,7 @@ include 'header.php'; ?>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
       </div>
-	  
+
 
 <?php include 'footer.php'; ?>
 
