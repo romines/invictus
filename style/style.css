@@ -58,9 +58,9 @@
 		color: #edf6ff;
 		background-color: #6b8377;
 	}
-	
+
 	/* Center thumbnails on small screens */
-	
+
 	.thumbnail {
 		float: none;
 		margin: 0 auto;
@@ -78,44 +78,44 @@
 }
 
 .home .jumbotron {
-	background: url(images/invictus_woods_exterior.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_exterior.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .philosophy .jumbotron {
-	background: url(images/invictus_woods_snow_drive.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_snow_drive.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .services .jumbotron {
-	background: url(images/invictus_woods_bedroom.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_bedroom.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .facility .jumbotron {
-	background: url(images/invictus_woods_bedroom_2.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_bedroom_2.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .admission .jumbotron {
-	background: url(images/invictus_woods_bird_feeder.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_bird_feeder.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .about .jumbotron {
-	background: url(images/invictus_woods_sunflower.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_sunflower.jpg) no-repeat center center;
 	background-size: cover;
 }
 .donations .jumbotron {
-	background: url(images/invictus_woods_donations.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_donations.jpg) no-repeat center center;
 	background-size: cover;
 }
 .resources .jumbotron {
-	background: url(images/invictus_woods_bedroom_2_a.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_bedroom_2_a.jpg) no-repeat center center;
 	background-size: cover;
 }
 .contact .jumbotron {
-	background: url(images/invictus_woods_exterior.jpg) no-repeat center center;
+	background: url(../images/invictus_woods_exterior.jpg) no-repeat center center;
 	background-size: cover;
 }
 
@@ -200,18 +200,18 @@
 /* responsive map rules */
 
 
-.embed-container { 
-	position: relative; 
-	padding-bottom: 56.25%; 
-	height: 0; 
-	overflow: hidden; 
-	max-width: 90%; 
-	} 
-.embed-container iframe, .embed-container object, .embed-container embed { 
-	position: absolute; 
-	top: 0; left: 0; 
-	width: 100%; 
-	height: 100%; 
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 90%;
+	}
+.embed-container iframe, .embed-container object, .embed-container embed {
+	position: absolute;
+	top: 0; left: 0;
+	width: 100%;
+	height: 100%;
 }
 
 @media screen and (min-width: 768px) {

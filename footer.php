@@ -6,17 +6,17 @@
     </div> <!-- /container -->
 
 
-    <!-- Bootstrap core JavaScript
+    <!-- Bootstrap, jQeury and our JavaScript
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- CDN -->
+  <script src ="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<script src="scripts/jquery.fancybox.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function() {
- 
+
 	$('.fancybox').fancybox();
- 
+
 	});
 	</script>
 	<script>
@@ -27,8 +27,8 @@
 		$(makeActive).addClass('active');
 	}
 	var width = $(window).width();
-	
-	
+
+
 	function shortenMenu(howWide){
 		if (howWide < 992 && howWide > 771) {
 			$('#services > a').html('About');
@@ -37,15 +37,15 @@
 			$('#contact > a').html('Contact');
 		}
 	}
-	
+
 	var height = window.innerHeight ? window.innerHeight : $(window).height()
-	
+
 	function fullJumboPhone(howTall){
 		if (howTall < 741) {
 			$('.jumbotron').height(howTall - 45);
 		}
 	}
-	
+
 	shortenMenu(width);
 	fullJumboPhone(height);
 	</script>
