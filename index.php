@@ -10,7 +10,7 @@ include 'header.php'; ?>
 			<img src='images/ball_tee.png' class="left">
 			<div id="insideGolf">
 
-				<h3>Save the date! <a href="images/IWEC-Golf_for_Recovery.pdf" target="_blank">I.W.E.C Third Annual <b>Golf for Recovery</b></a> Saturday, June 11th - Country Club of Peoria</h3>
+				<h3>Save the date! <span class="spoof">I.W.E.C Third Annual <b>Golf for Recovery</b></span> Saturday, June 11th - Country Club of Peoria</h3>
 
 			</div>
 			<img src='images/golfcart.png' class="right">

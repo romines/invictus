@@ -158,6 +158,9 @@
 	color: #063F6F;
 	text-decoration: underline;
 }
+#homeGolf .spoof {
+	color: #063F6F;
+}
 
 @media only screen and (max-width : 564px) {
 	#homeGolf img {
